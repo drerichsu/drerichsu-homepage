@@ -9,11 +9,12 @@
 
 # Meeting With Me
 * For official advising, read [Advising for Math Teaching Concentration](AdvisingTeaching.md) and then schedule a meeting with me below.
-* For info on how to become a teacher in California, also go to __Advising for Math Teaching Concentration__. If you have a BA already, pay special attention to the end.
+* For info on how to become a teacher in California, also go to [Advising for Math Teaching Concentration](AdvisingTeaching.md). If you have a BA already, pay special attention to the end.
 * For coursework evaluation for the math single-subject waiver program, read instructions at [Coursework Evaluation](CourseworkEvaluation.md).
  
-* To schedule a Zoom meeting with me at https://erichsu.youcanbook.me
-​  
+* For scheduling a Zoom meeting with me, go to https://erichsu.youcanbook.me
+<a href="https://erichsu.youcanbook.me/" data-ycbm-modal="true"><img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none;"/></a>
+​
 # Teaching
 * My Classes. Includes all past classes. 
 
@@ -35,6 +36,8 @@
 * Remedial Algebra GTA Resource Site (official syllabuses, teaching notes, activities and tests, Frequently Asked Questions)
 * Hypertext UC Berkeley PDP TA Handbook (Treisman Workshops)
 * Official Guidelines for Fourth-Hour GTA Responsibilities
+
+
 # Math Education Resources
 * The Better File Cabinet (math ed papers and calculus problems)
 * Treisman Intensive Workshop Resources (Worksheets and TA Handbook)
@@ -52,6 +55,8 @@
  
 * California Subject Matter Requirements Changes for Common Core (DOCX, updated Nov 5, 2013)
 * Katie Waddle's GRE Prep Resources
+
+
 # Some Software and Web Sites I've Written
 * Auto-Acronym. Automatic generation of acronyms from source text.
 * Better File Cabinet, open-source wiki-database software. This page runs on BFC.
