@@ -13,15 +13,18 @@ San Francisco, CA 94132
 * University of California, Berkeley, Ph.D., Mathematics. 1991-1998
   * Dissertation: “Almost Inductive Limit Structure of R-Actions on AF-algebras and AF-Embeddings of Covariance Algebras”, under [Prof. Dan-Virgil Voiculescu](https://en.wikipedia.org/wiki/Dan-Virgil_Voiculescu).
 * Harvard College, A.B. with Honors, Mathematics, 1987-1991
+
 # Professional History
 * San Francisco State University, Professor, Mathematics, 2011-present
 * San Francisco State University, Associate Professor, Mathematics, 2006-2011
 * San Francisco State University, Assistant Professor, Mathematics, 2001-2006
 * University of Texas at Austin, NSF PFSMETE Postdoctoral Fellowship, 1999-2001
 * University of Texas at Austin, Postdoctoral Fellowship, Math Education, 1998-1999
+
 # Grants, Honors and Awards
 ## Current
 * 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
+
 ## Recent
 * 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 5/2018-4/2022. co-PI, “Western Regional Noyce Alliance”, NSF DUE-1745263 ($3.3M/5y)
@@ -130,6 +133,7 @@ San Francisco, CA 94132
 * 2002 Participant, CSU Math Educators Face-to-Face Meeting at Asilomar
 * 2002 Participant, SFSU College of Education CAD/MS Workshop with Vera Lane
 * 2001 Leader, One-day workshop for K-12 in-service math teachers on Economics and Math for National Council on Economic Education (with Prof. Blecha, SFSU)
+
 # Math Department
 * 2020-present. Chair, Mathematics Department
 * 2022 Math Faculty Search Committee, Statistics
@@ -149,6 +153,7 @@ San Francisco, CA 94132
 * 2003-2005 Member, SFSU Math Department Faculty Council
 * 2002-2004 Member, SFSU Math Department Hiring Search Committee
 * 2002 Chair, SFSU Math Department Calculus Textbook Committee
+
 # Professional and Civic Activities (Off-Campus)
 ## Committees, Panels and Advisory Boards
 * 2022 Consultant, MAA Program Review/Certificate Design Workshop, Mar 11, Washington DC
@@ -179,12 +184,14 @@ San Francisco, CA 94132
 * 2008-2009 Project Author, Clarifying the Mathematical Underpinnings of Secondary School Mathematics in the United States, funded by Noyce Foundation.
 * 2006-2008 Presenter and Consultant, How to Build and Run a Successful Emerging Scholars Program (MAA PREP Workshop)
 * 2001 Grant Reader, California Postsecondary Education Commission Eisenhower State Grants
+
 ## National and State Tests and Standards
 * 2012 Reviewer, Illustrative Mathematics Project
 * 2007 Content Review Panelist, California State Textbook Adoption Committee (happens once every 7 years)
 * 2003-2005 Item Reviewer, California High School Exit Exam
 * 2003 Reader, AP Calculus exams, June 2003
-# Reviews and Refereeing
+
+## Reviews and Refereeing
 * 2016 Reviewer, National Science Foundation
 * 2010 Reviewer, Beyond Pizzas and Pies: 10 Essential Strategies for Supporting Fraction Sense, Grades 3-5, by McNamara and Shaughnessy
 * 2009 Consultant, Precalculus: Pathways to Calculus project
@@ -205,10 +212,12 @@ San Francisco, CA 94132
 * 2002 Participant, MAA Preparing Mathematicians to Education Teachers Workshop at San Diego
 * 2002 Judge, Joint Meetings Undergraduate Poster Session
 * 2001 Reviewer, MAA Mathematical Sciences Digital Library Project
+
 # Graduate Projects Supervised
 ## In Progress
 * Castillo, Francisco (committee, Ed.D.)
 * Almassy, Helena (committee, MA)
+
 ## Masters Theses and Field Studies
 * Gibson, Christopher (2022). A Qualitative Study of What Ideas New Graduate Teaching Associates Report From Student-Centered Instruction in Professional Development. (committee)
 * Swartout, Bryan (2020). Student Experiences Resulting from Changes in Course Placement in Entry Level Mathematics (committee)
@@ -228,6 +237,7 @@ San Francisco, CA 94132
 * Bravewoman, Mary. (2006). Identifying Success Strategies of Students with Learning Disabilities in Remedial Mathematics Courses.
 * Lucas, G. (2005). Group Work With Computers in a College Math Classroom: A Case Study.
 * Contini, Victor. (2005). Mathematics and Student Performance in Economics.
+
 ## Ed.D. Dissertations
 * Mary Reynolds. (2019). Supporting Girls Towards the Development of Positive Mathematical Identity. (committee)
 * Katrina Keating. (2018). Non-cognitive Variables for Placement: A Randomized Control Trial. (committee)
@@ -235,6 +245,7 @@ San Francisco, CA 94132
 * Graduate Expository Papers
 * Estrada, Rick. (2009). Distance Education Research: Applications in Hybrid Education
 * Magante, Maria. (2008). Dyscalculia.
+
 # Publications
 * Eroy-Reveles, A., Hsu, E., Peterfreund, A., Rath, K., Bayliss, F. (2019). History and Evolution of STEM Supplemental Instruction at San Francisco State University, a Large, Urban, Minority-Serving Institution. In Wilson-Kennedy, Z., Byrd, G., Kennedy, E., Frierson, H. (Eds.), Broadening Participation in STEM (Diversity in Higher Education, Volume 22), Emerald Publishing Limited, pp.209 - 235. https://www.emeraldinsight.com/doi/full/10.1108/S1479-364420190000022010
 * Yoon, I., Lyons, J., Horvath, L., Yue, H., Twarek, B., Remold, J., Hsu, E. (2018). SFSU INCLUDES on SF CALL (San Francisco Computing for All Levels and Learners). Proceedings of 2018 CoNECD - The Collaborative Network for Engineering and Computing Diversity Conference. https://www.asee.org/public/conferences/113/papers/21496/view
@@ -263,6 +274,7 @@ San Francisco, CA 94132
 * Hsu, E. (1999) “A Web-Based Database of Problems and Practices and Real Communities of ESP Teachers and Students”, Proceedings of the Twenty First Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. Hitt, Fernando, and Santos, Manuel (Eds.). (1999). Columbus, OH: ERIC Clearinghouse for Science, Mathematics, and Environmental Education. SE 062 752. p.824
 * Hsu, E. (1998) “Almost Inductive Limit Structure of R-Actions on AF-algebras and AF-Embeddings of Covariance Algebras”, Dissertation under Prof. Voiculescu, December 1998. Published with UMI.
 * Hsu, E. (1996). The Professional Development Program Teaching Assistant Teaching Manual, Berkeley, CA; PDP.
+
 # Presentations (Invited)
 * Presenter and discussion leader, "Initiating, Sustaining, and Researching Mathematics Department Transformation of Introductory Courses for STEM Majors", MSRI Critical Issues in Math Ed, Mar 18 2022.
 * Invited Panelist, Math Equity and the Power of Universities, The Mathematics of Opportunity: Charting a Path to Equity, 4th Annual Mathematics of Opportunity conference, Mar 3 2022
@@ -330,6 +342,7 @@ San Francisco, CA 94132
 * Math Education Colloquium at San Francisco State University, Spring 2001
 * Math Education Colloquium at Arizona State University, Spring 2001
 * Math Education Colloquium at California State University, Monterey Bay, Spring 2001
+
 # Presentations (Refereed)
 * Poster co-author, “STEM Supplemental Instruction at San Francisco State University, A Large Urban Hispanic-Serving Institution”, by Bayliss, Hsu, Rath, Peterfreund. 12th annual International Conference of Education, Research and Innovation. Seville, Spain. Nov 11-13, 2019.
 * Co-author, "Students’ Ways of Thinking About Transformational Geometry", with Natasha Speer*, University of Maine; Jennifer Dunham, University of Maine; Eric Pandiscio, University of Maine; Shandy Hauk, WestEd; Eric Hsu, San Francisco State University. 2017 SIGMAA on RUME’s Conference on Research in Undergraduate Mathematics Education. http://sigmaa.maa.org/rume/Site/Proceedings.html
