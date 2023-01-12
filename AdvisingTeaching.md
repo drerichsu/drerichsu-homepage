@@ -17,7 +17,11 @@ The credential will authorize you to teach mathematics in any secondary classroo
 There are alternate routes, which are discussed at the very end of this page, but this one is the best preparation to be a good teacher.
 
 ## A Diagram of the Major
-This is a picture of the BA in Math, Concentration in Teaching.  Each oval is a required course (in Math unless noted). Arrows go from prerequisite to requiring course. Dashed means suggested or concurrent enrollment allowed. You can download this as a PDF.  If Fall/Spring is noted, then these courses are only guaranteed to be offered in that semester.  
+This is a picture of the BA in Math, Concentration in Teaching.  Each oval is a required course (in Math unless noted). Arrows go from prerequisite to requiring course. Dashed means suggested or concurrent enrollment allowed. You can download this as a PDF.  
+
+![prerequisite diagram](files/teaching-prereqs12.dot.pdf)
+
+If Fall/Spring is noted, then these courses are only guaranteed to be offered in that semester.  
 
  
 Recommended Coursework Pattern
