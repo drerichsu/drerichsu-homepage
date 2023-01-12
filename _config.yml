@@ -3,5 +3,5 @@ description: Personal home page of Eric Hsu
 
 output: 
   html_document:
-     css: font-awesome-4.4.0/css/font-awesome.css
+     css: http://www.csszengarden.com/220/220.css?v=8may2013
      self_contained: no
