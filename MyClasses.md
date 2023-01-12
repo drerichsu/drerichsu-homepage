@@ -11,21 +11,21 @@
 * Math 475.01 Spring 2013
 * Elementary Education 697: Strategies for Teaching Mathematics, Summer 
 * Math 362: Topics in Mathematics for Elementary Teachers, 
-* Math 375.01 Fall 2012 (supervising)
+* [Math 375.01 Fall 2012](375-F12.md) (supervising)
 * Math 475.01 Spring 2012
-* Math 362: Topics in Mathematics for Elementary Teachers, Summer 
+* Math 362: Topics in Mathematics for Elementary Teachers, Summer (part of the PRIME CA MSP project)
   
 * Math 375.01 Fall 2011 (supervising)
 * Math 475.01 Spring 2011
 * Math 362: Topics in Mathematics for Elementary Teachers, Summer 
   
-* Math 577.01 Fall 10
+* [Math 577.01 Fall 10](577-F10.md)
 * Math 475.01 Spring 10
 * Math 362: Topics in Mathematics for Elementary Teachers, Summer 
 * Math 475.01 Spring 09
 * Math 375.01 Spring 09 (supervising)
 * Math 362: Topics in Mathematics for Elementary Teachers, Summer 
-* Math 226.06 and 226.08 F08: Calculus I, Fall 2008
+* [Math 226.06 and 226.08 F08: Calculus I, Fall 2008](226-F08.md)
 * Math 375.01: Early Field Experience for Future Teachers, Spring 2008
 * Math 475.01: Capstone Course for Secondary Teachers, Spring 2008
 * Math 362: Topics in Mathematics for Elementary Teachers, Summer 
