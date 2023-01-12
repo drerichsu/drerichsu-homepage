@@ -11,7 +11,7 @@ San Francisco, CA 94132
 
 # Education
 * University of California, Berkeley, Ph.D., Mathematics. 1991-1998
-* Dissertation: “Almost Inductive Limit Structure of R-Actions on AF-algebras and AF-Embeddings of Covariance Algebras”, under Prof. Dan-Virgil Voiculescu.
+  * Dissertation: “Almost Inductive Limit Structure of R-Actions on AF-algebras and AF-Embeddings of Covariance Algebras”, under [Prof. Dan-Virgil Voiculescu](https://en.wikipedia.org/wiki/Dan-Virgil_Voiculescu).
 * Harvard College, A.B. with Honors, Mathematics, 1987-1991
 # Professional History
 * San Francisco State University, Professor, Mathematics, 2011-present
@@ -21,10 +21,10 @@ San Francisco, CA 94132
 * University of Texas at Austin, Postdoctoral Fellowship, Math Education, 1998-1999
 # Grants, Honors and Awards
 ## Current
-* 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
+## Recent
+* 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 5/2018-4/2022. co-PI, “Western Regional Noyce Alliance”, NSF DUE-1745263 ($3.3M/5y)
-## Past
 * 10/1/2018-9/30/2021. co-PI, "CS4SF: A Scalable Model for Preparing and Supporting High School Teachers in Rigorous, Inclusive Computer Science Instruction", NSF CS4ALL. ($389,996 / 3y + $77,997 supplement)
 * 9/1/2016-12/31/2019. PI. "SF Computing for All Learners and Levels (SF CALL)", NSF INCLUDES ($299,960 / 3y)
 * 2014-2019. Senior Personnel, SF BUILD, NIH BUILD grant ($17M / 5y)
@@ -132,6 +132,7 @@ San Francisco, CA 94132
 * 2001 Leader, One-day workshop for K-12 in-service math teachers on Economics and Math for National Council on Economic Education (with Prof. Blecha, SFSU)
 # Math Department
 * 2020-present. Chair, Mathematics Department
+* 2022 Math Faculty Search Committee, Statistics
 * 2020 Associate Chair, Mathematics Department
 * 2018 Math Faculty Search Committee, Math Education 
 * 2018-2021. Retention, Tenure and Promotion Committee
