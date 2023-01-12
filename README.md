@@ -1,30 +1,28 @@
-# Eric Hsu's Home Page
-
-## Contact Info
+# Contact Info
 
 ![Eric's head](https://math.sfsu.edu/sites/default/files/styles/sf_state_250x250/public/images/hsu_0.jpg?h=ffed8f21&itok=m0gTz5g_ "Eric's head") 
 
 * Eric Hsu, Professor and Chair, Mathematics Department  
 * Partner Director, Center for Science and Math Education  
-* San Francisco State University  
+* San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132  
 * erichsu@sfsu.edu  
 
-## Meeting With Me
-* For official advising, read [Advising for Math Teaching Concentration](Advising.md) and then schedule a meeting with me below.
-* For info on how to become a teacher in California, also go to [Advising for Math Teaching Concentration](Advising.md). If you have a BA already, pay special attention to the end.
-* For coursework evaluation for the math single-subject waiver program, read instructions at [Coursework Evaluation](CourseworkEvaluation.md).
+# Meeting With Me
+* For official advising, read __Advising for Math Teaching Concentration__ and then schedule a meeting with me below.
+* For info on how to become a teacher in California, also go to __Advising for Math Teaching Concentration__. If you have a BA already, pay special attention to the end.
+* For coursework evaluation for the math single-subject waiver program, read instructions at __Coursework Evaluation__.
  
 * To schedule a Zoom meeting with me at https://erichsu.youcanbook.me
 ​  
-## Teaching
+# Teaching
 * My Classes. Includes all past classes. 
 
-## Current Grants
+# Current Grants
 * 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
 * Past grants are listed on my [Curriculum Vitae](CV.md).
 
-## Curriculum Vitae
+# Curriculum Vitae
 * My [Curriculum Vitae](CV.md). Lists:
   * all past grant funded projects, with links to more information
   * publications, many with PDF links
@@ -32,12 +30,12 @@
   * list of supervised theses and expository papers 
   * service activities
 
-## Supplemental Instruction and Graduate TA Resources
+# Supplemental Instruction and Graduate TA Resources
 * Basic Information for Propective Supplemental Instruction Instructors
 * Remedial Algebra GTA Resource Site (official syllabuses, teaching notes, activities and tests, Frequently Asked Questions)
 * Hypertext UC Berkeley PDP TA Handbook (Treisman Workshops)
 * Official Guidelines for Fourth-Hour GTA Responsibilities
-## Math Education Resources
+# Math Education Resources
 * The Better File Cabinet (math ed papers and calculus problems)
 * Treisman Intensive Workshop Resources (Worksheets and TA Handbook)
  
@@ -54,7 +52,7 @@
  
 * California Subject Matter Requirements Changes for Common Core (DOCX, updated Nov 5, 2013)
 * Katie Waddle's GRE Prep Resources
-## Some Software and Web Sites I've Written
+# Some Software and Web Sites I've Written
 * Auto-Acronym. Automatic generation of acronyms from source text.
 * Better File Cabinet, open-source wiki-database software. This page runs on BFC.
 * LaTeX Tidy, open-source Perl hack to clean up LaTeX files
@@ -62,7 +60,7 @@
 * Reading Old Microsoft Word 5 Files in Mac OS X. I'm so proud to have figured it out, I had to record the details. 
 * Unwritten Rules, an attempt to collate all those unwritten rules of various sports and activities.
 
-## Erdos-Bacon Number
+# Erdos-Bacon Number
 * Every now and then someone asks what my Erdos number is, and more rarely, what my Bacon number is. You can decide for yourself if my numbers are well-defined, as I use math education papers to calculate Erdos number and TV to calculate Bacon number. (Calculations done May 2010.)
  
 * My Erdos Number is 4: I coauthored with Diane Resek. / Diane Resek coauthored with Léon Henkin MR0366659 (51 #2906) /  Léon Henkin coauthored with Alfred Tarski MR0124250 (23 #A1564) / Alfred Tarski coauthored with Paul Erdös1 MR0008249 (4,269b). 
