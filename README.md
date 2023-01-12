@@ -10,7 +10,7 @@
 # Meeting With Me
 * For official advising, read __Advising for Math Teaching Concentration__ and then schedule a meeting with me below.
 * For info on how to become a teacher in California, also go to __Advising for Math Teaching Concentration__. If you have a BA already, pay special attention to the end.
-* For coursework evaluation for the math single-subject waiver program, read instructions at __Coursework Evaluation__.
+* For coursework evaluation for the math single-subject waiver program, read instructions at [Coursework Evaluation](CourseworkEvaluation.md).
  
 * To schedule a Zoom meeting with me at https://erichsu.youcanbook.me
 ​  
