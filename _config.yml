@@ -1,2 +1,7 @@
-  title: Eric Hsu's Home Page
-  description: Personal home page of Eric Hsu
+title: Eric Hsu's Home Page
+description: Personal home page of Eric Hsu
+
+output: 
+  html_document:
+     css: font-awesome-4.4.0/css/font-awesome.css
+     self_contained: no
