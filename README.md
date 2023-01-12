@@ -1,8 +1,8 @@
 # Contact Info
 
-![Eric's head](files/hsu.jpg "Eric's head") 
+ ![Eric's head](files/hsu.jpg "Eric's head") 
 
-* Eric Hsu, Professor and Chair, Mathematics Department  
+* Eric Hsu, Professor and Chair, Mathematics Department
 * Partner Director, Center for Science and Math Education  
 * San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132  
 * erichsu@sfsu.edu  
@@ -15,8 +15,9 @@
 * For scheduling a Zoom meeting with me, go to https://erichsu.youcanbook.me
 <a href="https://erichsu.youcanbook.me/" data-ycbm-modal="true"><img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none;"/></a>
 ​
+
 # Teaching
-* My Classes. Includes all past classes. 
+* [My Classes](MyClasses.md). Includes all past classes. 
 
 # Current Grants
 * 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
