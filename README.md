@@ -1,2 +1,2 @@
-# drerichsu-homepage
-Eric Hsu's Home Page
+# Eric Hsu's Home Page
+
