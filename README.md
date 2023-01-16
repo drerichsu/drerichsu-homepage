@@ -32,24 +32,16 @@
   * list of supervised theses and expository papers 
   * service activities
 
-# Supplemental Instruction and Graduate TA Resources
 
-<ul>
-    <li><a href="https://csme.sfsu.edu">Basic Information for Propective Supplemental Instruction Instructors</a></li>
-    <li><a class="url http outside" href="archive/gta.pl.html">Remedial Algebra GTA Resource Site</a> (official syllabuses,
-        teaching notes, activities and tests, Frequently Asked Questions)</li>
-    <li><a class="url http outside" href="archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html">Hypertext UC Berkeley PDP
-            TA Handbook</a> (Treisman Workshops)</li>
-    <li><a class="url http outside" href="http://math.sfsu.edu/hsu/taguidelines.html">Official Guidelines for
-            Fourth-Hour GTA Responsibilities</a></li>
-</ul>
 
-# Math Education Resources
+# Math Education Essays and Talks
+
+* [Getting a Math Education Job in a Mathematics Department (2014)](archive/hsu.pl@Getting_a_Math_Education_Job_in_a_Mathematics_Department.html)
+* [Interviewing for a Math Ed Job in a Math Dept (2016)](archive/hsu.pl@Interviewing_for_a_Math_Ed_Job_in_a_Math_Dept.html)
+
 <ul>
     <li><a class="url http outside" href="http://betterfilecabinet.com">The Better File Cabinet (math ed papers and
             calculus problems)</a></li>
-    <li><a class="url http outside" href="archive/prob.pl@Treisman_Workshop_Resources.html">Treisman Intensive Workshop
-            Resources</a> (Worksheets and TA Handbook)<br />&nbsp;</li>
     <li><a class="local" href="archive/hsu.pl@An_Outsider_Guide_to_Helping_Math_Faculty.html">An Outsider Guide to Helping Math
             Faculty</a>, 2017 discussion with CSU Faculty Development Council&nbsp;</li>
     <li><a class="local" href="archive/hsu.pl@Designing_Powerful_Calculus_Lessons.html">Designing Powerful Calculus Lessons</a>,
@@ -58,27 +50,16 @@
             Surfaces</a>, Joint Math Meetings 2017 Talk.&nbsp;</li>
     <li><a class="local" href="archive/hsu.pl@Calculus_I_With_Group_Work,_Fall_2008.html">Calculus I With Group Work, Fall
             2008</a> (Materials, worksheets, teaching outline)<br />&nbsp;</li>
-    <li><a class="local" href="archive/hsu.pl@Math_Education_Job_Search_Resources.html">Math Education Job Search Resources</a>
+    <li><a class="local" href="archive/hsu.pl@Math_Education_Job_Search_Resources.html">Math Education Job Search Resources (a bit out of date)</a>
     </li>
-    <li><a class="local" href="archive/hsu.pl@Getting_a_Math_Education_Job_in_a_Mathematics_Department.html">Getting a Math
-            Education Job in a Mathematics Department</a><br />&nbsp;</li>
     <li><a href="archive/hsu.pl@Math_Major_Percentages_By_Institution.html" class="local">Math Major Percentages By
             Institution</a></li>
-    <li><a href="https://docs.google.com/spreadsheet/ccc?key=0AnuJN_BYETiadEhULXBGUEdlNThiX3YyVFFrTVJQREE#gid=0"
-            class="url http outside">List of U.S. Doctoral Programs in Math Education</a> (with RUME programs
-        marked)<br />&nbsp;</li>
-    <li><a href="archive/../Subject_Matter_Requirement_Changes_for_CCSS.docx">California&nbsp;Subject&nbsp;Matter&nbsp;Requirements&nbsp;Changes&nbsp;for&nbsp;Common
-            Core</a> (DOCX, updated Nov 5, 2013)</li>
-    <li><a href="https://sites.google.com/view/katie-waddle/resources/math-gre-resources">Katie Waddle&#39;s GRE Prep
-            Resources</a></li>
+
+  
 </ul>
 
 # Some Software and Web Sites I&#39;ve Written</h1>
 <ul>
-    <li><a class="local" href="archive/hsu.pl@Auto-Acronym.html">Auto-Acronym</a>. Automatic generation of acronyms from source
-        text.</li>
-    <li><a class="url http outside" href="archive/bfc.pl.html">Better File Cabinet</a>, open-source wiki-database software. This
-        page runs on BFC.</li>
     <li><a href="archive/hsu.pl@LaTeX_Tidy.html" class="local">LaTeX Tidy</a>, open-source Perl hack to clean up LaTeX files
     </li>
     <li><a class="url http outside" href="http://macromates.com">TextMate</a>, a great Mac OS X text editor with special
@@ -86,7 +67,35 @@
         various other utilities.</li>
     <li><a class="local" href="archive/hsu.pl@Reading_Old_Microsoft_Word_5_Files_in_Mac_OS_X.html">Reading Old Microsoft Word 5
             Files in Mac OS X</a>. I&#39;m so proud to have figured it out, I had to record the details.&nbsp;</li>
-    <li>Unwritten Rules, an attempt to collate all those unwritten rules of various sports and activities.</li>
+</ul>
+
+# Out of Date Creations But Maybe Interesting
+
+
+* [Better File Cabinet](http://bfc.sfsu.edu/cgi-bin/bfc.pl), open-source wiki-database software.
+* <a class="url http outside" href="archive/prob.pl@Treisman_Workshop_Resources.html">Emerging Scholars (Treisman) Intensive Workshop
+            Resources</a> (Worksheets and TA Handbook)
+<ul>
+<li><a href="archive/../Subject_Matter_Requirement_Changes_for_CCSS.docx">California&nbsp;Subject&nbsp;Matter&nbsp;Requirements&nbsp;Changes&nbsp;for&nbsp;Common
+            Core</a> (DOCX, updated Nov 5, 2013)</li>
+<li><a href="https://docs.google.com/spreadsheet/ccc?key=0AnuJN_BYETiadEhULXBGUEdlNThiX3YyVFFrTVJQREE#gid=0"
+            class="url http outside">List of U.S. Doctoral Programs in Math Education</a> (with RUME programs
+        marked)(2016)<br />&nbsp;</li>
+<li><a href="https://sites.google.com/view/katie-waddle/resources/math-gre-resources">Katie Waddle&#39;s GRE Prep
+            Resources (2019)</a></li>
+<li><a class="local" href="archive/hsu.pl@Auto-Acronym.html">Auto-Acronym</a>. Automatic generation of acronyms from source
+        text.</li>
+</ul>
+
+## Supplemental Instruction and Graduate TA Resources (out of date)
+
+<ul>
+    <li><a class="url http outside" href="archive/gta.pl.html">Remedial Algebra GTA Resource Site</a> (official syllabuses,
+        teaching notes, activities and tests, Frequently Asked Questions)</li>
+    <li><a class="url http outside" href="archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html">Hypertext UC Berkeley PDP
+            TA Handbook</a> (Treisman Workshops)</li>
+    <li><a class="url http outside" href="http://math.sfsu.edu/hsu/taguidelines.html">Official Guidelines for
+            Fourth-Hour GTA Responsibilities</a></li>
 </ul>
 
 # Erdos-Bacon Number
