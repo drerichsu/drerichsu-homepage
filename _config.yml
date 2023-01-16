@@ -2,3 +2,4 @@ title: Eric Hsu's Home Page
 description: Personal home page of Eric Hsu
 
 theme: cayman
+GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
