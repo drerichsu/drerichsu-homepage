@@ -1,8 +1,10 @@
 # My Teaching
 
+Old syllabuses can be found in this [Old Syllabus Archive](archive/hsu.pl@My_Classes.html).
+
 * [Math 475.01 Spring 2020](475-S20.md)
 * [Math 226.11-12, Fall 2019](226-F19.md)
-* [Math 475.01 Spring 2019](archive/hsu.pl@Math_475.01_Spring_2019.html)
+* Math 475.01 Spring 2019
 * Math 475.01 Spring 2018
 * Math 475.01 Spring 2017
 * Math 475.01 Spring 2016
