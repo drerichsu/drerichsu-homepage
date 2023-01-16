@@ -1,7 +1,4 @@
 title: Eric Hsu's Home Page
 description: Personal home page of Eric Hsu
 
-output: 
-  html_document:
-     css: http://www.csszengarden.com/220/220.css?v=8may2013
-     self_contained: no
+theme: cayman
