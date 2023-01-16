@@ -14,24 +14,23 @@
  
 * For scheduling a Zoom meeting with me, go to https://erichsu.youcanbook.me
 <a href="https://erichsu.youcanbook.me/" data-ycbm-modal="true"><img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none;"/></a>
-​
-
-# Teaching
-* [My Classes](MyClasses.md). Includes all past classes. 
-
-# Current Grants
-* 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
-* 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
-* Past grants are listed on my [Curriculum Vitae](CV.md).
 
 # Curriculum Vitae
-* My [Curriculum Vitae](CV.md). Lists:
+* My [Curriculum Vitae](CV.md) lists:
   * all past grant funded projects, with links to more information
   * publications, many with PDF links
   * presentations, some with linked talk notes
   * list of supervised theses and expository papers 
   * service activities
 
+# Current Grants
+* 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
+* 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
+* Past grants are listed on my [Curriculum Vitae](CV.md).
+
+
+# Teaching and Old Syllabuses
+* [My Classes](MyClasses.md). Includes all past classes. 
 
 
 # Math Education Essays and Talks
@@ -71,7 +70,6 @@
 
 # Out of Date Creations But Maybe Interesting
 
-
 * [Better File Cabinet](http://bfc.sfsu.edu/cgi-bin/bfc.pl), open-source wiki-database software.
 * <a class="url http outside" href="archive/prob.pl@Treisman_Workshop_Resources.html">Emerging Scholars (Treisman) Intensive Workshop
             Resources</a> (Worksheets and TA Handbook)
@@ -100,28 +98,30 @@
 
 # Erdos-Bacon Number
 
-<p>Every now and then someone asks what my Erdos number is, and more rarely, what my Bacon number is. You can decide for
+Every now and then someone asks what my Erdos number is, and more rarely, what my Bacon number is. You can decide for
     yourself if my numbers are well-defined, as I use math education papers to calculate Erdos number and TV to
-    calculate Bacon number. (Calculations done May 2010.)</p>
-<p><b>My <a href="https://en.wikipedia.org/wiki/Erdős_number">Erdos Number</a> is 4:&nbsp;</b>I coauthored with Diane
+    calculate Bacon number. (Calculations done May 2010.)
+    
+* **My [Erdos Number](https://en.wikipedia.org/wiki/Erdős_number) is 4.** I coauthored with Diane
     Resek. /&nbsp;Diane Resek&nbsp;coauthored with&nbsp;L&eacute;on Henkin&nbsp;MR0366659 (51 #2906) / &nbsp;L&eacute;on
     Henkin&nbsp;coauthored with&nbsp;Alfred Tarski MR0124250 (23 #A1564) / Alfred Tarski&nbsp;coauthored with&nbsp;Paul
-    Erd&ouml;s1&nbsp;MR0008249 (4,269b).&nbsp;</p>
-<p><b>My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers">Bacon Number</a> is 3</b>:
-    When I was in the 7th grade,&nbsp;I was a regular member of a large kid panel on a TV show called <i>Livewire</i>
+    Erd&ouml;s1&nbsp;MR0008249 (4,269b).
+
+* **My [Bacon Number](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers) is 3**:
+    When I was in the 7th grade,&nbsp;I was a regular member of a large kid panel on a TV show called <i>[Livewire](https://en.wikipedia.org/wiki/Livewire_(talk_show))</i>
     hosted by Fred Newman.&nbsp;Fred Newman (I) was in <i>Harry and the Hendersons</i>  with John Lithgow.&nbsp; John Lithgow
-    was in <i>Footloose</i> with Kevin Bacon.</p>
-<div>Thus <b>my Erdos-Bacon Number is 7.</b></div>
-<div>&nbsp;</div>
-<div><b>Bonus:</b></div>
-<div>
-    <p><b>My <a href="http://static.echonest.com/SixDegreesOfBlackSabbath/index.html">Black Sabbath Number</a> is
-            17:&nbsp;</b>Black Sabbath had member Neil Murray / Neil Murray was a member of Colosseum II / Colosseum II
+    was in <i>Footloose</i> with Kevin Bacon.
+    
+* Thus my **Erdos-Bacon Number is 7**.
+
+* *Bonus*: **My [Black Sabbath Number](http://static.echonest.com/SixDegreesOfBlackSabbath/index.html") is
+            17**:
+Black Sabbath had member Neil Murray / Neil Murray was a member of Colosseum II / Colosseum II
         had member Gary Moore / Gary Moore was a member of BBM / BBM had member Ginger Baker / Ginger Baker was a member
         of Masters of Reality / Masters of Reality had member Victor Indrizzo / Victor Indrizzo was a member of Samiam /
         Samiam had member Tr&eacute; Cool / Tr&eacute; Cool was a member of Green Day / Green Day had member Billie Joe
         Armstrong / Billie Joe Armstrong was a member of Pinhead Gunpowder / Pinhead Gunpowder had member Aaron Cometbus
         / Aaron Cometbus was a member of Harbinger / Harbinger had member Robert Eggplant / Robert Eggplant was a member
         of the Hope Bombs / The Hope Bombs had member Eric Hsu.</p>
-    <p>&nbsp;</p>
-    <p><b>So my Erdos-Bacon-Sabbath number is 24.
+
+* Therefore **my Erdos-Bacon-Sabbath number is 24**.
