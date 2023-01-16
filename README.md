@@ -24,10 +24,8 @@
   * service activities
 
 # Current Grants
-* 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
 * Past grants are listed on my [Curriculum Vitae](CV.md).
-
 
 # Teaching and Old Syllabuses
 * [My Classes](MyClasses.md). Includes all past classes. 
