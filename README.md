@@ -58,7 +58,7 @@
   
 </ul>
 
-# Some Software and Web Sites I&#39;ve Written</h1>
+# Some Software and Web Sites I&#39;ve Written
 <ul>
     <li><a href="archive/hsu.pl@LaTeX_Tidy.html" class="local">LaTeX Tidy</a>, open-source Perl hack to clean up LaTeX files
     </li>
@@ -109,8 +109,8 @@
     Erd&ouml;s1&nbsp;MR0008249 (4,269b).&nbsp;</p>
 <p><b>My <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers">Bacon Number</a> is 3</b>:
     When I was in the 7th grade,&nbsp;I was a regular member of a large kid panel on a TV show called <i>Livewire</i>
-    hosted by Fred Newman.&nbsp;Fred Newman (I) was in <i>Men in Black</i> (1997) with Steve Rankin.&nbsp;Steve Rankin
-    was in <i>Trapped</i> (2002) with Kevin Bacon.</p>
+    hosted by Fred Newman.&nbsp;Fred Newman (I) was in <i>Harry and the Hendersons</i>  with John Lithgow.&nbsp; John Lithgow
+    was in <i>Footloose</i> with Kevin Bacon.</p>
 <div>Thus <b>my Erdos-Bacon Number is 7.</b></div>
 <div>&nbsp;</div>
 <div><b>Bonus:</b></div>
