@@ -134,7 +134,7 @@ San Francisco, CA 94132
 * 2002 Participant, SFSU College of Education CAD/MS Workshop with Vera Lane
 * 2001 Leader, One-day workshop for K-12 in-service math teachers on Economics and Math for National Council on Economic Education (with Prof. Blecha, SFSU)
 
-# Math Department
+## Math Department
 * 2020-present. Chair, Mathematics Department
 * 2022 Math Faculty Search Committee, Statistics
 * 2020 Associate Chair, Mathematics Department
