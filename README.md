@@ -1,12 +1,5 @@
 # Contact Info
 
- <!-- ![Eric's head](files/hsu.jpg "Eric's head") 
-
-* Eric Hsu, Professor and Chair, Mathematics Department
-* Partner Director, Center for Science and Math Education  
-* San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132  
-* erichsu@sfsu.edu   -->
-
 <table><tr><td><img src="files/hsu.jpg" alt="Eric's head"></td><td>
     <ul>
     <li>Eric Hsu, Professor and Chair, Mathematics Department </li>
