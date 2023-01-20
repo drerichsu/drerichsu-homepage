@@ -13,10 +13,10 @@
 * For info on how to become a teacher in California, also go to [Advising for Math Teaching Concentration](AdvisingTeaching.md). If you have a BA already, pay special attention to the end.
 * For coursework evaluation for the math single-subject waiver program, read instructions at [Coursework Evaluation](CourseworkEvaluation.md).
  
-* For scheduling a Zoom meeting with me, go to https://erichsu.youcanbook.me
-<a href="https://erichsu.youcanbook.me/" data-ycbm-modal="true">
+* For scheduling a Zoom meeting with me, go to:
 
-<img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none;"/></a>
+[![booking](https://youcanbook.me/resources/pics/ycbm-button.png)](https://erichsu.youcanbook.me/)
+
 
 # Curriculum Vitae
 * My [Curriculum Vitae](CV.md) lists:
