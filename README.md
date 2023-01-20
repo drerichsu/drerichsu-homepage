@@ -6,7 +6,6 @@
     <li>Partner Director, Center for Science and Math Education  </li>
     <li>San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132  </li>
     <li>erichsu@sfsu.edu</li>
-
 </ul></td></tr></table>
 
 # Meeting With Me
@@ -15,7 +14,9 @@
 * For coursework evaluation for the math single-subject waiver program, read instructions at [Coursework Evaluation](CourseworkEvaluation.md).
  
 * For scheduling a Zoom meeting with me, go to https://erichsu.youcanbook.me
-<a href="https://erichsu.youcanbook.me/" data-ycbm-modal="true"><img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none;"/></a>
+<a href="https://erichsu.youcanbook.me/" data-ycbm-modal="true">
+
+<img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none;"/></a>
 
 # Curriculum Vitae
 * My [Curriculum Vitae](CV.md) lists:
