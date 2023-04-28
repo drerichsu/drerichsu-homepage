@@ -84,13 +84,16 @@ San Francisco, CA 94132
 
 # Professional and Civic Activities (Campus)
 ## Campus
+
 * 2021-present. Member, SFSU Tutoring Advisory Board
+* 2020-present. Member, CSU Math Council
 * 2020-present. Member, SFSU Undergraduate Programs for Educator Preparation Committee
 * 2020-present. Partner Director, Center for Science and Math Education
-* 2019-present. Member, Search committee for Executive Director of the Tutoring and Academic Support Center
 * 2017-present. Affiliated Doctoral Faculty, Ed.D. Program.
 * 2014-present. Project Director, Frank Sheehan Scholarship
+* 2023. Member, CSU Math Council Election Committee
 * 2020-2021. Member, B4 and Quantitative Reasoning Task Force
+* 2019-2020. Member, Search committee for Executive Director of the Tutoring and Academic Support Center
 * 2010-2020. Director, Center for Science and Math Education
 * 2020 Campus Team Member, CSU Data Summit – From Collection to Action: Using Data to Guide Continuous Improvement 
 * 2018-2019. Member, SFSU Committee for Operational Review of Tutoring
@@ -276,6 +279,7 @@ San Francisco, CA 94132
 * Hsu, E. (1996). The [Professional Development Program Teaching Assistant Teaching Manual](archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html), Berkeley, CA; PDP.
 
 # Presentations (Invited)
+* Invited Panelist, "Staying the Course: Investigating Prerequisites to College Calculus Session Resources", 5th annual Mathematics of Opportunity conference, online. Mar 7-9 2023.
 * Presenter and discussion leader, "Initiating, Sustaining, and Researching Mathematics Department Transformation of Introductory Courses for STEM Majors", [MSRI Critical Issues in Math Ed](https://www.msri.org/workshops/1028), Mar 18 2022.
 * Invited Panelist, Math Equity and the Power of Universities, The Mathematics of Opportunity: Charting a Path to Equity, 4th Annual Mathematics of Opportunity conference, Mar 3 2022
 * Invited Presenter, Trusting Students To Choose Their First-Year Courses. MAA Golden Section Annual Meeting, Feb 26 2022. CSU Maritime Academy, Vallejo, CA.
