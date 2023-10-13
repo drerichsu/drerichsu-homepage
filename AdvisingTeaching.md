@@ -52,7 +52,7 @@ Don't worry about this. Math majors will get this automatically by taking your G
 ...to a Secondary Math Teaching Credential
 Here is the original recommended pathway, annotated with alternatives.
 1. Earn SFSU's BA in Mathematics, Concentration in Teaching.
-    * An alternative is to get a BA in some kind of Mathematics without need for a CSET, or a BA in any field and to pass CSET Math Subtests 1, 2 & 3.  You must also spend 45 hours observing in diverse public school secondary mathematics classrooms. PROS: Don't have to take all the teacher coursework. CONS: You don't get actual math preparation! And tests are stressful.  This path only makes sense for people who already have a BA in a math-heavy field or have a experience in a math-heavy career.
+    * An alternative is to get a BA in some kind of Mathematics (BA Math all concentrations, BS Statistics, BS Applied Math) without need for a CSET, or a BA in any field and to pass CSET Math Subtests 1, 2 & 3.  You must also spend 45 hours observing in diverse public school secondary mathematics classrooms. PROS: Don't have to take all the teacher coursework. CONS: You don't get actual math preparation! And tests are stressful.  This path only makes sense for people who already have a BA in a math-heavy field or have a experience in a math-heavy career.
  
 2. Take a year of graduate study in any credential program in California, to earn a single-subject mathematics credential.
 
