@@ -84,7 +84,7 @@ San Francisco, CA 94132
 
 # Professional and Civic Activities (Campus)
 ## Campus
-
+* 2023-present. Member, COSE Anti-racism Committee
 * 2021-present. Member, SFSU Tutoring Advisory Board
 * 2020-present. Member, CSU Math Council
 * 2020-present. Member, SFSU Undergraduate Programs for Educator Preparation Committee
@@ -195,6 +195,7 @@ San Francisco, CA 94132
 * 2003 Reader, AP Calculus exams, June 2003
 
 ## Reviews and Refereeing
+* 2023 Tenure External Reviewer, University of Nebraska - Lincoln
 * 2016 Reviewer, National Science Foundation
 * 2010 Reviewer, Beyond Pizzas and Pies: 10 Essential Strategies for Supporting Fraction Sense, Grades 3-5, by McNamara and Shaughnessy
 * 2009 Consultant, Precalculus: Pathways to Calculus project
@@ -219,9 +220,9 @@ San Francisco, CA 94132
 # Graduate Projects Supervised
 ## In Progress
 * Castillo, Francisco (committee, Ed.D.)
-* Almassy, Helena (committee, MA)
 
 ## Masters Theses and Field Studies
+* Almassy, Helena (2023). Novice College Mathematics Instructor Communication About Scaffolding Student Learning. (committee)
 * Gibson, Christopher (2022). A Qualitative Study of What Ideas New Graduate Teaching Associates Report From Student-Centered Instruction in Professional Development. (committee)
 * Swartout, Bryan (2020). Student Experiences Resulting from Changes in Course Placement in Entry Level Mathematics (committee)
 * Bengle, Gordon (2018). Teachers’ Roles in Supporting Student Navigation Through Common Confusions in Algebra. (committee)
@@ -279,6 +280,7 @@ San Francisco, CA 94132
 * Hsu, E. (1996). The [Professional Development Program Teaching Assistant Teaching Manual](archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html), Berkeley, CA; PDP.
 
 # Presentations (Invited)
+* Facilitator, MAA MSI Leadership Summit, Nov 3 2023.
 * Invited Panelist, "Staying the Course: Investigating Prerequisites to College Calculus Session Resources", 5th annual Mathematics of Opportunity conference, online. Mar 7-9 2023.
 * Presenter and discussion leader, "Initiating, Sustaining, and Researching Mathematics Department Transformation of Introductory Courses for STEM Majors", [MSRI Critical Issues in Math Ed](https://www.msri.org/workshops/1028), Mar 18 2022.
 * Invited Panelist, Math Equity and the Power of Universities, The Mathematics of Opportunity: Charting a Path to Equity, 4th Annual Mathematics of Opportunity conference, Mar 3 2022
