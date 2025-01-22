@@ -22,10 +22,8 @@ San Francisco, CA 94132
 * University of Texas at Austin, Postdoctoral Fellowship, Math Education, 1998-1999
 
 # Grants, Honors and Awards
-## Current
-* 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
-
 ## Recent
+* 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
 * 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 5/2018-4/2022. co-PI, “Western Regional Noyce Alliance”, NSF DUE-1745263 ($3.3M/5y)
 * 10/1/2018-9/30/2021. co-PI, "CS4SF: A Scalable Model for Preparing and Supporting High School Teachers in Rigorous, Inclusive Computer Science Instruction", NSF CS4ALL. ($389,996 / 3y + $77,997 supplement)
