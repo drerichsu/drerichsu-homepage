@@ -1,11 +1,17 @@
 # Coursework Evaluation
 Thank you for your interest in having SFSU evaluate your mathematics coursework. 
+
+## If you are applying to SFSU
+
+Great idea!  SFSU trains a large part of the math teachers in the SF Bay Area. You should email the head of our secondary math credential program, Prof. Evra Marie Baldinger <evrabaldinger@sfsu.edu> to find out more.
+
+## If you are NOT applying to SFSU
  
 If you want to have your existing undergraduate coursework evaluated for fulfilling math competency equivalent to a single-subject waiver program, please follow these steps:
 
-1. If you are (a) a current SFSU student or (b) applying for the SFSU credential program, there is no fee. Otherwise, there is an evaluation fee of $100 that should be paid by sending a check payable to SFSU, to
+1. If you are a current SFSU student, there is no fee. Otherwise, there is an evaluation fee of $100 that should be paid by sending a check payable to SFSU, to
  
-    * Transcript Evaluation  
+* Transcript Evaluation  
 Mathematics Department  
 1600 Holloway Ave  
 San Francisco, CA  94132  
