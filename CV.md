@@ -23,7 +23,7 @@ San Francisco, CA 94132
 
 # Grants, Honors and Awards
 ## Recent
-* 6/1/2019-5/31/2024. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
+* 6/1/2019-5/31/2025. co-PI, STAJES. NSF Noyce Track 1 #1852881. ($945,843 / 5y)
 * 7/1/2020-6/30/2022. PI. "Bay Area Math Collaborative (BAM-C)". CA Education Learning Lab. ($17K / 2y)
 * 5/2018-4/2022. co-PI, “Western Regional Noyce Alliance”, NSF DUE-1745263 ($3.3M/5y)
 * 10/1/2018-9/30/2021. co-PI, "CS4SF: A Scalable Model for Preparing and Supporting High School Teachers in Rigorous, Inclusive Computer Science Instruction", NSF CS4ALL. ($389,996 / 3y + $77,997 supplement)
@@ -89,7 +89,7 @@ San Francisco, CA 94132
 * 2020-present. Partner Director, Center for Science and Math Education
 * 2017-present. Affiliated Doctoral Faculty, Ed.D. Program.
 * 2014-present. Project Director, Frank Sheehan Scholarship
-* 2023. Member, CSU Math Council Election Committee
+* 2023-present. Member, CSU Math Council Election Committee
 * 2020-2021. Member, B4 and Quantitative Reasoning Task Force
 * 2019-2020. Member, Search committee for Executive Director of the Tutoring and Academic Support Center
 * 2010-2020. Director, Center for Science and Math Education
@@ -278,6 +278,9 @@ San Francisco, CA 94132
 * Hsu, E. (1996). The [Professional Development Program Teaching Assistant Teaching Manual](archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html), Berkeley, CA; PDP.
 
 # Presentations (Invited)
+* Invited Panelist, "Where to Begin? Prerequisites, Corequisites, and Calculus Success”, MathFest 2025, Aug 6 - 9, 2025.
+* Invited Speaker, "Should AI Change How We Teach Calculus?", MathFest 2025, Aug 6 - 9, 2025.
+* Invited Plenary Speaker, "Precalculus and calculus: Why do we teach it and who is allowed to learn it?", MAA Lecture on Teaching and Learning. Joint Mathematical Meetings, Seattle WA, Jan 9 2025. https://www.youtube.com/watch?v=pDidT68Mn-Q
 * Facilitator, MAA MSI Leadership Summit, Nov 3 2023.
 * Invited Panelist, "Staying the Course: Investigating Prerequisites to College Calculus Session Resources", 5th annual Mathematics of Opportunity conference, online. Mar 7-9 2023.
 * Presenter and discussion leader, "Initiating, Sustaining, and Researching Mathematics Department Transformation of Introductory Courses for STEM Majors", [MSRI Critical Issues in Math Ed](https://www.msri.org/workshops/1028), Mar 18 2022.
