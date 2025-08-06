@@ -157,6 +157,7 @@ San Francisco, CA 94132
 
 # Professional and Civic Activities (Off-Campus)
 ## Committees, Panels and Advisory Boards
+* 2025 Writer, [Project EMBER](https://www.tpsemath.org/projectember), Spring 2025 for TPSE and APLU.
 * 2022 Consultant, MAA Program Review/Certificate Design Workshop, Mar 11, Washington DC
 * 2020-present. Advisory Board, Mathopolis / Julia Robinson Mathematics Festival
 * 2012-2023. Board of Directors, College Preparatory Mathematics
@@ -278,8 +279,8 @@ San Francisco, CA 94132
 * Hsu, E. (1996). The [Professional Development Program Teaching Assistant Teaching Manual](archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html), Berkeley, CA; PDP.
 
 # Presentations (Invited)
-* Invited Panelist, "Where to Begin? Prerequisites, Corequisites, and Calculus Success”, MathFest 2025, Aug 6 - 9, 2025.
-* Invited Speaker, "Should AI Change How We Teach Calculus?", MathFest 2025, Aug 6 - 9, 2025.
+* Invited Panelist, "Where to Begin? Prerequisites, Corequisites, and Calculus Success”, MathFest 2025, Sacramento, CA. Aug 9, 2025.
+* Invited Speaker, ["Should AI Change How We Teach Calculus?"](https://docs.google.com/presentation/d/1RhV7sXkSqjGF3Cy2-vGgpZBqmJPGhohhk0NQDOvD1u8/edit?usp=sharing), MathFest 2025, Sacramento, CA. Aug 6, 2025. 
 * Invited Plenary Speaker, "Precalculus and calculus: Why do we teach it and who is allowed to learn it?", MAA Lecture on Teaching and Learning. Joint Mathematical Meetings, Seattle WA, Jan 9 2025. https://www.youtube.com/watch?v=pDidT68Mn-Q
 * Facilitator, MAA MSI Leadership Summit, Nov 3 2023.
 * Invited Panelist, "Staying the Course: Investigating Prerequisites to College Calculus Session Resources", 5th annual Mathematics of Opportunity conference, online. Mar 7-9 2023.
@@ -384,4 +385,4 @@ San Francisco, CA 94132
 * "A Web-Based Database of Problems and Practices and Real Communities of ESP Teachers and Students.” CSCL’99 (Computers Supporting Collaborative Learning), Stanford University. Software demonstration, December 1999.
 * "A Web-Based Database of Problems and Practices and Real Communities of ESP Teachers and Students,” PME/NA XXI, U. Morelos, Mexico. Poster, October 1999.
 
-_Last updated_: Jan 11 2023
+_Last updated_: 2025-08-05
