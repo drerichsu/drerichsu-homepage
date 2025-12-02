@@ -71,7 +71,7 @@
 
 # Out of Date Creations But Maybe Interesting
 
-* [Better File Cabinet](http://bfc.sfsu.edu/cgi-bin/bfc.pl), open-source wiki-database software.
+* [Better File Cabinet](http://drerichsu.com), open-source wiki-database software.
 * <a class="url http outside" href="archive/prob.pl@Treisman_Workshop_Resources.html">Emerging Scholars (Treisman) Intensive Workshop
             Resources</a> (Worksheets and TA Handbook)
 <ul>
