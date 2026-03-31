@@ -1,12 +1,20 @@
 # Contact Info
 
-<table><tr><td><img src="files/2025.jpeg" alt="Eric's head" width="25%"></td><td>
-    <ul>
-    <li>Eric Hsu, Professor and Chair, Mathematics Department </li>
-    <li>Partner Director, Center for Science and Math Education  </li>
-    <li>San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132  </li>
-    <li>erichsu@sfsu.edu</li>
-</ul></td></tr></table>
+<table style="width:100%;">
+  <tr>
+    <td style="width:25%;">
+      <img src="files/2025.jpeg" alt="Eric's head" style="width:100%;">
+    </td>
+    <td style="width:75%;">
+      <ul>
+        <li>Eric Hsu, Professor and Chair, Mathematics Department</li>
+        <li>Partner Director, Center for Science and Math Education</li>
+        <li>San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132</li>
+        <li>erichsu@sfsu.edu</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 # Meeting With Me
 * For official advising, read [Advising for Math Teaching Concentration](AdvisingTeaching.md) and then schedule a meeting with me below.
