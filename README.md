@@ -2,10 +2,10 @@
 
 <table style="width:100%;">
   <tr>
-    <td style="width:25%;">
-      <img src="files/2025.jpeg" alt="Eric's head" style="width:100%;">
+    <td style="width:25%; vertical-align:top;">
+      <img src="files/2025.jpeg" alt="Eric's head" style="max-width:120px; width:100%; height:auto;">
     </td>
-    <td style="width:75%;">
+    <td style="width:75%; vertical-align:top;">
       <ul>
         <li>Eric Hsu, Professor and Chair, Mathematics Department</li>
         <li>Partner Director, Center for Science and Math Education</li>
