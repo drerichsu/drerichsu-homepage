@@ -3,7 +3,7 @@
 <table style="width:100%;">
   <tr>
     <td style="width:25%; vertical-align:top;">
-      <img src="files/2025.jpeg" alt="Eric's head" style="max-width:120px; width:100%; height:auto;">
+      <img src="files/2025-small.jpeg" alt="Eric's head" style="width:100%; height:auto;">
     </td>
     <td style="width:75%; vertical-align:top;">
       <ul>
