@@ -1,6 +1,6 @@
 # Contact Info
 
-<table><tr><td><img src="files/hsu.jpg" alt="Eric's head"></td><td>
+<table><tr><td><img src="files/2025.jpg" alt="Eric's head"></td><td>
     <ul>
     <li>Eric Hsu, Professor and Chair, Mathematics Department </li>
     <li>Partner Director, Center for Science and Math Education  </li>
