@@ -25,6 +25,8 @@
 
 [![booking](https://youcanbook.me/resources/pics/ycbm-button.png)](https://erichsu.youcanbook.me/)
 
+# Micro Bio
+* Eric Hsu is Chair and Professor of Mathematics at San Francisco State University. He has led numerous STEM education projects, including a large NSF Math Science Partnership, an NSF INCLUDES project, several NSF Noyce projects, and four California Math Science Partnerships. He founded and was director of the Center for Science and Mathematics Education for ten years. He received an NSF CAREER Award for his work on college math teaching.
 
 # Curriculum Vitae
 * My [Curriculum Vitae](CV.md) lists:
