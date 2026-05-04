@@ -188,12 +188,15 @@ San Francisco, CA 94132
 * 2001 Grant Reader, California Postsecondary Education Commission Eisenhower State Grants
 
 ## National and State Tests and Standards
+* 2026 CA Representative, Focus State Mathematics Convening (CA, FL, NY), Gates Foundation
 * 2012 Reviewer, Illustrative Mathematics Project
 * 2007 Content Review Panelist, California State Textbook Adoption Committee (happens once every 7 years)
 * 2003-2005 Item Reviewer, California High School Exit Exam
 * 2003 Reader, AP Calculus exams, June 2003
 
 ## Reviews and Refereeing
+* 2026 Expert Faculty Reviewer, California General Education Transfer Curriculum (Cal-GETC)
+* 2026 External Program Reviewer, University of the Pacific math department. 
 * 2023 Tenure External Reviewer, University of Nebraska - Lincoln
 * 2016 Reviewer, National Science Foundation
 * 2010 Reviewer, Beyond Pizzas and Pies: 10 Essential Strategies for Supporting Fraction Sense, Grades 3-5, by McNamara and Shaughnessy
