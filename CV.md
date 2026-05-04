@@ -279,6 +279,7 @@ San Francisco, CA 94132
 * Hsu, E. (1996). The [Professional Development Program Teaching Assistant Teaching Manual](archive/prob.pl@Hypertext_UC_Berkeley_PDP_TA_Handbook.html), Berkeley, CA; PDP.
 
 # Presentations (Invited)
+* Invited Speaker, ["Who is allowed to try to learn Calculus and how do we decide?"](https://docs.google.com/presentation/d/1skzCZstOjJcmcwGCxiTaonLzll7B9NpTN755SVsCeVo/edit?usp=sharing), San Jose State Math Colloquium 
 * Invited Panelist, "Where to Begin? Prerequisites, Corequisites, and Calculus Success”, MathFest 2025, Sacramento, CA. Aug 9, 2025.
 * Invited Speaker, ["Should AI Change How We Teach Calculus?"](https://docs.google.com/presentation/d/1RhV7sXkSqjGF3Cy2-vGgpZBqmJPGhohhk0NQDOvD1u8/edit?usp=sharing), MathFest 2025, Sacramento, CA. Aug 6, 2025. 
 * Invited Plenary Speaker, "Precalculus and calculus: Why do we teach it and who is allowed to learn it?", MAA Lecture on Teaching and Learning. Joint Mathematical Meetings, Seattle WA, Jan 9 2025. https://www.youtube.com/watch?v=pDidT68Mn-Q
